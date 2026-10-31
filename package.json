@@ -1,0 +1,9 @@
+{
+  "name": "neuralelearn-visual-tutor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first AI visual tutor with animated lesson scenes, browser narration, and model-backed Q&A.",
+  "type": "module",
+  "scripts": {"start": "node server.mjs", "test": "node --test"},
+  "engines": {"node": ">=20"}
+}
